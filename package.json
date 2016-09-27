@@ -1,0 +1,27 @@
+{
+  "name": "koth",
+  "version": "0.1.0",
+  "description": "Keeps processes synced using a local TCP server",
+  "author": "Manuel de la Higuera <mhiguera@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mhiguera/koth.git"
+  },
+  "keywords": [
+    "eob",
+    "sync",
+    "processes",
+    "handshake",
+    "local",
+    "pm2"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhiguera/koth/issues"
+  },
+  "homepage": "https://github.com/mhiguera/koth",
+  "dependencies": {
+    "eob": "^1.0.2"
+  }
+}
